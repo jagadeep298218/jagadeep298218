@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I am Jagadeep Kalluri, a upcoming senior studying in Cypress Ranch High School. Having around 3 years of experience in python, but since 2021, I'm working to expand my knowledge by learning other languages like javascript. To see my profile in detail, I recommend to look at my LinkedIn profile.
+I am Jagadeep Kalluri, a freshman studying in University of Texas at Dallas and pursuing a bachelors in computer science. Having around 3 years of experience in python, but since 2021, I'm working to expand my knowledge by learning other languages like javascript. To see my profile in detail, I recommend to look at my LinkedIn profile.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-adeel-9ba19951/)
 
@@ -27,8 +27,6 @@ I am Jagadeep Kalluri, a upcoming senior studying in Cypress Ranch High School. 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
-![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 
