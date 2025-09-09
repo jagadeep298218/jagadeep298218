@@ -1,8 +1,7 @@
 
 ### Hi there 👋
 
-I am Jagadeep Kalluri, a freshman studying in University of Texas at Dallas and pursuing a bachelors in computer science. Having around 3 years of experience in python, but since 2021, I'm working to expand my knowledge by learning other languages like javascript. To see my profile in detail, I recommend to look at my LinkedIn profile.
-
+I am Jagadeep Kalluri, a sophomore studying in University of Texas at Dallas and pursuing a bachelors in computer science.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-adeel-9ba19951/)
 
 ## Skills
